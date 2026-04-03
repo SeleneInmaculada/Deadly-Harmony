@@ -1,6 +1,7 @@
 # Deadly Harmony (Provisional Name)
-Deadly Harmony is my final project of my course in multi-platform application development.
-This project is a demo of a about of 8 minutes of a visual novel about a murder in the mansion of a famous guitarist.
+Deadly Harmony is our final project of the Videogames and VR Specialization, made between my classmate and me.
+This project is a 2D pixel demo about a murder in a disco. I have been in charge of the visual design, 2D and 3D sprites, story design, dialogues, and code review.
+GitHub of Carlos: [chaconmoon](https://github.com/chaconmoon).
 
 For more info about  the game structure and operation open [ABOUT.md](https://github.com/SeleneInmaculada/Deadly-Harmony/blob/main/ABOUT.md)
 
