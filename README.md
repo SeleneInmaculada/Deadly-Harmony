@@ -17,7 +17,7 @@ To open this project clone the git repository in a folder a of your computer
 git clone https://github.com/SeleneInmaculada/Deadly-Harmony.git
 ```
 
-For more information about get and build this project open [BUILD.md](https://github.com/SeleneInmaculada/Deadly-Harmony/blob/main/BUILD.md)
+For more information about get and build this project open [BUILD.md](BUILD.md)
 
 ## Controls
 
@@ -38,4 +38,4 @@ The controls of the game:
 - Select: Open Inventory
 -  _At this moment you can't close de Game with Gamepad you must use ESC_
 
-For more info of the Inputs in the game controls [CONTROLS.md](https://github.com/SeleneInmaculada/Deadly-Harmony/blob/main/CONTROLS.md)
+For more info of the Inputs in the game controls [CONTROLS.md](CONTROLS.md)
